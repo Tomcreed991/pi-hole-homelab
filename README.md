@@ -38,5 +38,5 @@ As part of my career pivot into **Cybersecurity**, I have deployed a dedicated n
 ---
 
 ## Dashboard Preview
-
+![Pi-hole Dashboard](pi-hole-dashboard) 
 **Created by Tom** *Aspiring Cybersecurity Analyst | Sydney, NSW*
